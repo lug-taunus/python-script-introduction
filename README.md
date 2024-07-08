@@ -1,2 +1,3 @@
 # python-script-introduction
- Repository for introduction to python scripts as replacement for shell scripts
+
+Repository for introduction to python scripts as replacement for shell scripts.
